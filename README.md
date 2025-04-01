@@ -34,9 +34,11 @@ By incorporating time series analysis, this project enhances the granularity and
 Data:
 
 https://archive.ics.uci.edu/dataset/515/bar+crawl+detecting+heavy+drinking
+
 Article:
 
 https://ceur-ws.org/Vol-2429/paper6.pdf
+
 Tasks:
 
 Understand the data provided for the project
