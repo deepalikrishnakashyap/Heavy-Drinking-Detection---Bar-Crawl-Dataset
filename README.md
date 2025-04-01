@@ -30,3 +30,15 @@ Implement anonymization techniques to protect user data.
 Develop privacy-preserving mechanisms for potential real-time deployment.
 
 By incorporating time series analysis, this project enhances the granularity and reliability of heavy drinking detection, making strides toward a real-time, data-driven mobile application for behavioral insights and early intervention.
+
+Data:
+
+https://archive.ics.uci.edu/dataset/515/bar+crawl+detecting+heavy+drinking
+Article:
+
+https://ceur-ws.org/Vol-2429/paper6.pdf
+Tasks:
+
+Understand the data provided for the project
+Investigate whether permutation entropy and complexity method is reliable in differentiating heavy drinking vs. sober cases
+
